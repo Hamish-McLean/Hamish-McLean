@@ -1,7 +1,15 @@
-I am a molecular biologist, currently working as a Research Assistant at NIAB EMR. 
+I am a PhD student at NIAB EMR. My project is titled: Investigating the abiotic and biotic factors affecting apple canker (_Neonectria ditissima_) symptom development.
 
-I am currently learning bioinformatics in preparation for my PhD, which I'm hoping to start in Oct 2021.
-- I have been doing the Genomic Data Science specialisation course on [coursera](https://www.coursera.org/specializations/genomic-data-science). My work for this course can be found in [this repository](https://github.com/Cycadophyta/genomic-data-science/).
-- I have also been working through some bioinformatics problems on [Rosalind](http://rosalind.info/about/). My work can be found in [this repository](https://github.com/Cycadophyta/rosalind/).
+## PhD
+My PhD project is divided into three work packages.
+
+### WP1 Rhizosphere
+
+### WP2 Waterlogging
+
+### WP3 Biocontrols
+
+
+I have also been working through some bioinformatics problems on [Rosalind](http://rosalind.info/about/). My work can be found in [this repository](rosalind).
 
 I have also been working on some IoT projects.
