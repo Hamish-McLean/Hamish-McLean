@@ -12,4 +12,4 @@ My PhD project is divided into three work packages.
 
 I have also been working through some bioinformatics problems on [Rosalind](http://rosalind.info/about/). My work can be found in [this repository](rosalind).
 
-I have also been working on some IoT projects.
+I also have some IoT projects.
